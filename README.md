@@ -8,7 +8,7 @@ Native Instruments, please support your older devices better.
 
 > On Windows, Controller Editor may not see your device.  I had to plug and unplug several times, and the device's configuration updated, but Controller Editor still did not "detect" my device (but still updated it).
 
-2. Now, create the folder `C:\Users\{USERNAME}\AppData\Roaming\Ableton\Live 11.x.x\Preferences\User Remote Scripts\Komplete Kontrol S88 Macro` on Windows, or `~/Library/Preferences/Ableton/Live 11.x.x/User Remote Scripts/Komplete Kontrol S88` on macOS.  
+2. Now, create the folder `C:\Users\{USERNAME}\AppData\Roaming\Ableton\Live 11.x.x\Preferences\User Remote Scripts\Komplete Kontrol S88 Macro` on Windows, or `/Applications/Ableton Live 11 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Komplete Kontrol S88 Macro` on macOS.  
 Copy this repository's "UserConfiguration.txt" into that folder.
 
 
