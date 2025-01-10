@@ -2,6 +2,11 @@
 Ableton Live 11 integration for Komplete Kontrol S88 Mk1.
 Native Instruments, please support your older devices better.
 
+I recommend not buying this keyboard (S88 mk1) unless you get it at a steal of a price.  The software really sucks.
+
+Must use Controller Editor 2.9 or lower:  https://support.native-instruments.com/hc/en-us/articles/13971860838173-Notes-on-Ending-Software-Support-for-Komplete-Kontrol-S-Series-MK1-Keyboards
+
+
 ## Installation
 
 1. Within Native Instruments Controller Editor, import the profile `ableton_komplete_kontrol_s88_mk1.ncc`, and with your S88 Mk1 in MIDI mode (Shift + Instance on the controller) make sure that the CC knobs update to show the names.  
